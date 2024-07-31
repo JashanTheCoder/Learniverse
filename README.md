@@ -29,5 +29,10 @@ community, Learniverse aims to revolutionize e-learning, making education access
 engaging, and transformative for all
 
 <h2> Preview OF Website</h2>
-![image](https://github.com/user-attachments/assets/528ad0a4-59a6-4b7c-8ef8-04f00f743440)
-![image](https://github.com/user-attachments/assets/730354f3-4ae0-427e-907f-d1e6cbbe0a68)
+![image](https://github.com/user-attachments/assets/528ad0a4-59a6-4b7c-8ef8-04f00f743440) <br>
+![image](https://github.com/user-attachments/assets/730354f3-4ae0-427e-907f-d1e6cbbe0a68)<br>
+![image](https://github.com/user-attachments/assets/7fd2625e-3b06-4282-b0d5-100fa9163961)<br>
+![image](https://github.com/user-attachments/assets/fd610bae-5650-41b2-8353-4f07298101b3)<br>
+![image](https://github.com/user-attachments/assets/ba563b69-f81b-49dc-b3cc-2b9674354ee8)
+
+
